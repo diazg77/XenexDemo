@@ -1,0 +1,9 @@
+c:\users\1111229\documents\visual studio 2015\Projects\XenexDemo\XenexDemoTest\bin\Debug\XenexDemoTest.dll
+c:\users\1111229\documents\visual studio 2015\Projects\XenexDemo\XenexDemoTest\bin\Debug\XenexDemoTest.pdb
+c:\users\1111229\documents\visual studio 2015\Projects\XenexDemo\XenexDemoTest\bin\Debug\nunit.framework.dll
+c:\users\1111229\documents\visual studio 2015\Projects\XenexDemo\XenexDemoTest\bin\Debug\XenexDemoPrint.dll
+c:\users\1111229\documents\visual studio 2015\Projects\XenexDemo\XenexDemoTest\bin\Debug\XenexDemoPrint.pdb
+c:\users\1111229\documents\visual studio 2015\Projects\XenexDemo\XenexDemoTest\bin\Debug\nunit.framework.xml
+c:\users\1111229\documents\visual studio 2015\Projects\XenexDemo\XenexDemoTest\obj\Debug\XenexDemoTest.csprojResolveAssemblyReference.cache
+c:\users\1111229\documents\visual studio 2015\Projects\XenexDemo\XenexDemoTest\obj\Debug\XenexDemoTest.dll
+c:\users\1111229\documents\visual studio 2015\Projects\XenexDemo\XenexDemoTest\obj\Debug\XenexDemoTest.pdb

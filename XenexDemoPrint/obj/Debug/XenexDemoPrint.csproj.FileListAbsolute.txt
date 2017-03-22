@@ -1,0 +1,4 @@
+c:\users\1111229\documents\visual studio 2015\Projects\XenexDemo\XenexDemoPrint\bin\Debug\XenexDemoPrint.dll
+c:\users\1111229\documents\visual studio 2015\Projects\XenexDemo\XenexDemoPrint\bin\Debug\XenexDemoPrint.pdb
+c:\users\1111229\documents\visual studio 2015\Projects\XenexDemo\XenexDemoPrint\obj\Debug\XenexDemoPrint.dll
+c:\users\1111229\documents\visual studio 2015\Projects\XenexDemo\XenexDemoPrint\obj\Debug\XenexDemoPrint.pdb
